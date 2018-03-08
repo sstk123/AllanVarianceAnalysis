@@ -1,2 +1,2 @@
 # AllanVarianceAnalysis
-Matlab program and data
+Matlab program 
